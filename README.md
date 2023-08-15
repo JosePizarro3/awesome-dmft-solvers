@@ -6,8 +6,6 @@ This list might be imcomplete, so that contributions are very welcome and encour
 
 ## Software
 
-### Materials Properties
-
 - [TRIQS](https://triqs.github.io/triqs/latest/): A set of C++ and Python libraries used to develop new tools for studying interacting quantum systems.
 
 - [w2dynamics](https://github.com/w2dynamics/w2dynamics): A CT-HYB code for calculating n-particle Green's functions of the AIM developed in Wien/Würzburg. 
