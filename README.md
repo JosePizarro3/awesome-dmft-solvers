@@ -22,6 +22,8 @@ This list might be imcomplete, so that contributions are very welcome and encour
 
 - [pomerol](https://github.com/pomerol-ed/pomerol): An ED solver package written in C++ aimed at solving models of interacting fermions and bosons on finite size lattices at finite temperatures.
 
+- [iQIST](https://github.com/huangli712/iQIST): A package containing several CT-HYB solvers and auxiliary scripts. 
+
 ## References
 
 ### Must-read
